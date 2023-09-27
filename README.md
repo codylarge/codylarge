@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @codylarge
-- 👀 I’m interested in Computer
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me...
+# Cody Large
+
+## Major
+Computer Science - Senior at Eastern Washington University
+
+## Skills
+- Programming
+- Web Design
+- 3D Modeling/Animation
+- SQL
+
+## Languages:
+- **Java**
+- C
+- Javascript
+- Python
+- C#
+- HTML/CSS
+
 
 <!---
 codylarge/codylarge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
