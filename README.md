@@ -4,7 +4,7 @@
 Computer Science - Senior at Eastern Washington University
 
 ## Skills
-- Programming
+- Software Engineering
 - Web Design
 - 3D Modeling/Animation
 - SQL
