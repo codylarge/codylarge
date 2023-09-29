@@ -6,7 +6,7 @@ Computer Science - Senior at Eastern Washington University
 * 🌍  I'm based in Seattle, Washington
 * ✉️  You can contact me at [cdlarge77@gmail.com](mailto:cdlarge77@gmail.com)
 
-<img align="right" alt="GIF" src="" width="360px"/>
+<img align="right" alt="GIF" src="cranepurple.gif" width="360px"/>
 
 ## Skills
 - Programming
