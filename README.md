@@ -3,7 +3,7 @@
 
 I am a Computer Science Major at Eastern Washington University. I enjoy all types of programming but I'm specifically interested in algorithms, simulation and AI. Web design & Game design are also hobbies of mine.
 
-<img align="right" alt="GIF" src="craneblue.gif" width="360px"/>
+<img align="right" alt="GIF" src="KirbyGIF.gif" width="360px"/>
 
 ## More
 * 🌍  I'm based in Seattle, Washington
