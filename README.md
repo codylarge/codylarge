@@ -55,9 +55,6 @@ I am a Computer Science Major at Eastern Washington University. I enjoy all type
   <a href="https://discord.com/users/happycake5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/codylarge" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://www.instagram.com/cody_large" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
