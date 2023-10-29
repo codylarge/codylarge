@@ -1,4 +1,4 @@
-# Cody Large
+# [Cody Large](codylarge.github.io)
 
 
 I am a Computer Science Major at Eastern Washington University. I enjoy all types of programming but I'm specifically interested in algorithms, simulation and AI. Web design & Game design are also hobbies of mine.
