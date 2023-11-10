@@ -1,6 +1,6 @@
 # [Cody Large](https://codylarge.github.io/)
 
-
+<a href="https://github.com/codylarge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codylarge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cody's github stats" /></a> | <a href="https://github.com/codylarge/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codylarge&layout=compact&theme=buefy&hide_border=true" /></a> |
 I am a Computer Science Major at Eastern Washington University. I enjoy all types of programming but I'm specifically interested in algorithms, simulation and AI. Web design & Game design are also hobbies of mine.
 
 <img align="right" alt="GIF" src="kirbygiftransparent.gif" width="360px"/>
