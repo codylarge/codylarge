@@ -13,7 +13,7 @@ I am a Computer Science Major at Eastern Washington University. I enjoy all type
 - Programming
 - Web Design
 - 3D Modeling/Animation
-- SQL
+- Machine Learning
   
 ## Languages & Tools
 
