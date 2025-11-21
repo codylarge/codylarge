@@ -1,5 +1,5 @@
 # [Cody Large](https://codylarge.github.io/)
-I am a Computer Science Major at Eastern Washington University. I enjoy all types of programming but I'm specifically interested in algorithms, simulation and AI. Web design & Game design are also hobbies of mine.
+I'm a professional computer user. I enjoy all types of programming but I'm specifically interested in Web development, Game dev and Machine learning.
 
 <img align="right" alt="GIF" src="kirbygiftransparent.gif" width="360px"/>
 
